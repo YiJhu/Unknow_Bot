@@ -2,6 +2,7 @@
 '''
 Creator by L.H.
 Github : https://github.com/YiJhu
+line https://line.me/R/ti/p/C0zqAO9i7j
 '''
 from core import *
 
